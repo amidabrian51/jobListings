@@ -1,0 +1,12 @@
+.Input {
+  display: flex;
+  justify-content: center;
+}
+.SearchMode {
+  width: 400px;
+  height: 30px;
+}
+/* .Input[type="searchJob"] {
+  width: 200px;
+  height: 60px;
+} */

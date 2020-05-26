@@ -1,0 +1,6 @@
+.navBar {
+  height: 155px;
+  background-image: url(../images/bg-header-desktop.svg);
+  background-color: #5da4a4;
+  margin-bottom: 70px;
+}
